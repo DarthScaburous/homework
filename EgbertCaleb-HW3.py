@@ -1,8 +1,8 @@
-#Name
+#Caleb Egbert
 
-#Lab Section
+# 12
 
-#Submission Date
+# 11/5/2024
 
 #Sources, help given to/received from
 
